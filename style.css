@@ -19,7 +19,7 @@ label {
 }
 
 input[type="tel"] {
-    width: 25%;
+    width: 35%;
     padding: 8px; /* Slightly reduce padding for a more compact look */
     margin: 5px 0;
     box-sizing: border-box;
