@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e5ddd5;
+    color: #075e54;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6; /* Improved line spacing for better readability */
+}
+
+h1 {
+    text-align: center;
+    color: #128C7E;
+    margin-top: 20px; /* Add some top margin for spacing */
+}
+
+label {
+    color: #128C7E;
+    font-weight: bold; /* Make labels bold for emphasis */
+}
+
+input[type="tel"] {
+    width: 25%;
+    padding: 8px; /* Slightly reduce padding for a more compact look */
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 2px solid #128C7E;
+    border-radius: 5px;
+    font-size: 14px; /* Adjust font size for better consistency */
+}
+
+
+
+textarea {
+    width: 60%;
+    padding: 8px; /* Slightly reduce padding for a more compact look */
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 2px solid #128C7E;
+    border-radius: 5px;
+    font-size: 14px; /* Adjust font size for better consistency */
+}
+
+button {
+    background-color: #25d366;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px; /* Increase button font size for emphasis */
+}
+
+button:hover {
+    background-color: #128C7E;
+}
