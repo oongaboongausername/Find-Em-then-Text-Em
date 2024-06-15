@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #e5ddd5;
+    background-color: seagreen;
     color: #075e54;
     margin: 0;
     padding: 0;
@@ -9,17 +9,18 @@ body {
 
 h1 {
     text-align: center;
-    color: #128C7E;
+    color: #07423b;
     margin-top: 20px; /* Add some top margin for spacing */
 }
 
 label {
-    color: #128C7E;
+    color: #07423b;
     font-weight: bold; /* Make labels bold for emphasis */
 }
 
 input[type="tel"] {
-    width: 35%;
+    background-color: rgb(177, 238, 177);
+    width: 25%;
     padding: 8px; /* Slightly reduce padding for a more compact look */
     margin: 5px 0;
     box-sizing: border-box;
@@ -32,6 +33,7 @@ input[type="tel"] {
 
 textarea {
     width: 60%;
+    background-color: rgb(177, 238, 177);
     padding: 8px; /* Slightly reduce padding for a more compact look */
     margin: 5px 0;
     box-sizing: border-box;
@@ -41,7 +43,7 @@ textarea {
 }
 
 button {
-    background-color: #25d366;
+    background-color: #7de2a2;
     color: white;
     padding: 10px 20px;
     border: none;
